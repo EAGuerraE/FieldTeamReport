@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">FieldChat PoC icon</title>
+  <desc id="desc">Dark rounded square with a blue technical chat mark.</desc>
+  <rect width="512" height="512" rx="112" fill="#0f172a"/>
+  <path d="M130 150h252c28 0 50 22 50 50v118c0 28-22 50-50 50H242l-82 58v-58h-30c-28 0-50-22-50-50V200c0-28 22-50 50-50Z" fill="#2563eb"/>
+  <path d="M158 222h196M158 272h138" stroke="#e2e8f0" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="368" cy="276" r="32" fill="#22c55e"/>
+</svg>
